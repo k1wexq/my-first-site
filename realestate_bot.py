@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import asyncio
 from collections import Counter
 from telethon import TelegramClient, events
